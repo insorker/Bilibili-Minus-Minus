@@ -87,28 +87,28 @@
                 let ads = document.querySelector('.bili-dyn-ads');
 
                 if (ads)
-                    displaySwitch(ads);
+                    displaySwitch(ads, 'hide');
             }
             // topic
             function hideTopic() {
                 let topic = document.querySelector('.right .sticky');
 
                 if (topic)
-                    displaySwitch(topic);
+                    displaySwitch(topic, 'hide');
             }
             // announcement
             function hideAnnouncement() {
                 let announcement = document.querySelector('.bili-dyn-banner');
 
                 if (announcement)
-                    displaySwitch(announcement);
+                    displaySwitch(announcement, 'hide');
             }
             // right
             function hideRight() {
                 let right = document.querySelector('.right');
 
                 if (right)
-                    displaySwitch(right);
+                    displaySwitch(right, 'hide');
             }
 
             for (let mutation of mutationsList) {
