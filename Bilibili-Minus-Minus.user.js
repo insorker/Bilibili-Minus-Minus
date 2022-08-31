@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Bilibili-Minus-Minus
 // @namespace    http://tampermonkey.net/
-// @version      0.4.1
+// @version      0.4.2
 // @description  简化网页版B站视频界面
 // @author       insorker
 // @match        https://www.bilibili.com/video/*
 // @match        https://t.bilibili.com/*
+// @note         2022.08-31-V0.4.2 修复动态bug
 // @note         2022.08-31-V0.4.1 根据个人习惯修改，不喜欢可以取消hideRightContainer();注释
 // @note         2022.08-31-V0.4.0 “右侧显示”更新为人性化图标，修复显示bug
 // @note         2022.08-30-V0.3.2 “右侧显示”修复
