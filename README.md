@@ -8,4 +8,10 @@
 
 ## 预览
 
+![](https://insorker-bucket.oss-cn-hangzhou.aliyuncs.com/img/blog/BMM_README_1.PNG)
+
+![](https://insorker-bucket.oss-cn-hangzhou.aliyuncs.com/img/blog/BMM_README_2.PNG)
+
 ## 功能
+
+隐藏右侧边栏和广告
