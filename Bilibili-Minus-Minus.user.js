@@ -205,7 +205,8 @@
             }
             // live
             function hideLive() {
-                let live = document.getElementById('live_recommand_report');
+                // let live = document.getElementById('live_recommand_report');
+                let live = document.getElementsByClassName('pop-live-small-mode')[0];
 
                 if (live)
                     displaySwitch(live, 'hide');
